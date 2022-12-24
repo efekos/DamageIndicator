@@ -1,0 +1,6 @@
+name: DamageIndicator
+version: '${project.version}'
+main: me.efekos.damageindicator.DamageIndicator
+api-version: 1.19
+authors: [ efekos ]
+description: A Damage indicator to players
